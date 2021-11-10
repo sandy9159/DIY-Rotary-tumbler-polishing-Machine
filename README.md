@@ -137,5 +137,14 @@ If new user signup today from this link [JLCPCB](https://jlcpcb.com/IAT ) you wi
 ![image](https://user-images.githubusercontent.com/19898602/138686998-33a08efe-93af-44e7-991a-c77a59e2c089.png)
 
 
+![image](https://user-images.githubusercontent.com/19898602/138687262-b17b4deb-fd48-4701-91f0-2416cc24f77d.png)
+
+This is 2.8" nextion HMI which have onboard stm 32 micro controller, this is best for user interface no need to hardwire any push button or other hardware to arduino for 
+
+user interface, its GUI developmet is also very easy. 
+
+This way we completed the assembly of the machine for more details you can watch the video on my youtube channel.
+
+
 
 
