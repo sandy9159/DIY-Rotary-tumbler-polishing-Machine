@@ -145,6 +145,7 @@ user interface, its GUI developmet is also very easy.
 
 This way we completed the assembly of the machine for more details you can watch the video on my youtube channel.
 
+![MVI_0004_1](https://user-images.githubusercontent.com/19898602/141059771-19c9bd8f-6524-496a-98b0-8627b7cbee94.gif)
 
 
 
