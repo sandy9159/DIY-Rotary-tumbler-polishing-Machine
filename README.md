@@ -58,6 +58,26 @@ Then I bring four 608Z bearing 8mm ID and 22mm OD I placed this bearing at ther 
 ![image](https://user-images.githubusercontent.com/19898602/141050556-62854910-083f-4826-9fa1-b47859dfeeb3.png)
 
 
-Then I bring a high torque 12V DC motor 
+Then I bring a high torque 12V DC motor, this motor
+
+Nearly all types of DC motors have some internal mechanism, either electromechanical or electronic, to periodically change the direction of current 
+
+in a part of the motor.DC motors were the first form of motor widely used, as they could be powered from existing direct-current lighting power distribution systems. 
+
+A DC motor’s speed can be controlled over a wide range, using either a variable supply voltage or by changing the strength of the current in its field windings.
+
+>> Base Motor RPM: 18000
+
+
+>> Operating Voltage: 6-18 V
+
+>> Rated Voltage: 12 V
+
+>> Rated Torque: 34.2 N-cm
+
+>> Stall Torque: 300 N-cm
+
+>> Gearbox Dimensions: 25×37 (LxW) mm
+
 
 
